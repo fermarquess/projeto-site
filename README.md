@@ -1,2 +1,3 @@
 # projeto-site
- Projeto de um site criado durante o curso de Git e Github
+ Projeto do site criado como exercício durante o curso de Git e Github
+
